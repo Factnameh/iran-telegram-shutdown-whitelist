@@ -113,5 +113,5 @@ The notebook is meant to be readable and reproducible, not a polished library.
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/<your-username>/telegram-whitelist-shutdown.git
+   git clone https://github.com/Factnameh/telegram-whitelist-shutdown.git
    cd telegram-whitelist-shutdown
